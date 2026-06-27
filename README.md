@@ -1,1 +1,1 @@
-🌐 **Демо** — [https://shamardinaem.github.io/Testimonials-grid-section/](https://shamardinaem.github.io/Testimonials-grid-section/)
+🌐 **Демо** — [https://shamardinaem.github.io/Bento-grid/](https://shamardinaem.github.io/Bento-grid/)
